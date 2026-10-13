@@ -19,3 +19,4 @@
 
 #  📂 Mis proyectos
 - [📚 Apuntes y prácticas 1r ASIX](https://github.com/Thekillerjoker/1r-ASIX)
+- [📚 Apuntes y prácticas 2gn ASIX](https://github.com/Thekillerjoker/2ASIX)
