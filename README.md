@@ -18,3 +18,4 @@
 - Programación: Python, SQL, HTML y PHP
 
 #  📂 Mis proyectos
+- [📚 Apuntes y prácticas 1r ASIX](https://github.com/Thekillerjoker/1r-ASIX)
