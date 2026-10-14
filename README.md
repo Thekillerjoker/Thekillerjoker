@@ -62,6 +62,9 @@ Soy una persona interesada en la parte práctica de la tecnología: Linux, redes
   <a href="https://github.com/Thekillerjoker/2ASIX">
     <img src="https://img.shields.io/badge/📚-2ASIX-2ECC71?style=for-the-badge" alt="2ASIX" />
   </a>
+  <a href="https://github.com/Thekillerjoker/Scripts">
+    <img src="https://img.shields.io/badge/📚-2ASIX-2ECC71?style=for-the-badge" alt="2ASIX" />
+  </a>
 </div>
 
 ## 📊 GitHub stats
