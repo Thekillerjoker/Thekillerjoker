@@ -1,45 +1,50 @@
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Sergi+%28Thekillerjoker%29;Estudiante+de+ASIX+%7C+SysAdmin+%26+Infraestructura;Linux+%7C+Redes+%7C+Servidores+%7C+Virtualizaci%C3%B3n" alt="Typing SVG" />
-    <p>
-    <img src="https://img.shields.io/badge/ASIX-Administraci%C3%B3n%20de%20Sistemas-00C2FF?style=for-the-badge&logo=linux&logoColor=white" alt="ASIX" />
-    <img src="https://img.shields.io/badge/Stack-Infraestructura-2ECC71?style=for-the-badge&logo=apache&logoColor=white" alt="Infra" />
-    <img src="https://img.shields.io/badge/Contacto-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1500&color=00C2FF&center=true&vCenter=true&width=760&lines=Hola%2C+soy+Sergi+%28Thekillerjoker%29;Estudiante+de+ASIX;SysAdmin+%7C+Redes+%7C+Infraestructura" alt="Typing SVG"/>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/ASIX-Administraci%C3%B3n%20de%20Sistemas-00C2FF?style=for-the-badge&logo=linux&logoColor=white" alt="ASIX" />
+  <img src="https://img.shields.io/badge/Linux-Servidor%20%26%20Redes-2ECC71?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Stack-Infraestructura-FFB703?style=for-the-badge&logo=apache&logoColor=white" alt="Infraestructura" />
 </div>
 
 # 👋 Hola, soy Sergi
 
-*Estudiante de ASIX orientado a administración de sistemas, redes, servidores y virtualización. Me centro en prácticas reales con Linux y Windows Server, configuraciones de AD, servicios web y bases de datos. Aquí verás mis proyectos, stack técnico y cómo contactarme.*
+<p align="center">
+  <em>Estudiante de ASIX enfocado en administración de sistemas, redes, servidores y virtualización.</em>
+</p>
 
-## 🚀 Sobre mí:
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Thekillerjoker&style=flat-square&color=00C2FF" alt="Profile views" />
+</div>
 
+## 🚀 Sobre mí
 
-- 🐧 Interesado en Linux y la administración de sistemas operativos.
-- 🌐 Aprendiendo sobre redes, protocolos, DNS, DHCP y servicios de red.
-- 🖥️ Practicando con Windows Server, Ubuntu Server y entornos de laboratorio.
-- 🗄️ Trabajando con bases de datos como MySQL, MariaDB y Oracle.
-- 💻 Explorando desarrollo con Python, SQL, HTML y PHP.
-- 🔧 Enfocado en infraestructura, servidores y servicios IT.
+Soy una persona interesada en la parte práctica de la tecnología: Linux, redes, servicios de infraestructura y entornos reales de laboratorio. Me gusta aprender haciendo, automatizar tareas y entender cómo funcionan los sistemas por dentro.
+
+- 🐧 Linux y administración de sistemas
+- 🌐 Redes, DNS, DHCP, protocolos y servicios de red
+- 🖥️ Windows Server y entornos híbridos
+- 🗄️ Bases de datos: MySQL, MariaDB y Oracle
+- 💻 Python, SQL, HTML y PHP
+- 🔧 Infraestructura, virtualización y despliegue de servicios
 
 ## 🧠 Stack técnico
-<!-- Icon row (servicio externo que sirve SVGs compactos) -->
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,python,php,mysql,mariadb,oracle,html" alt="tech icons" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,python,php,mysql,mariadb,oracle,html,git,github,docker" alt="tech stack" />
 </p>
 
-<!-- Shields por tecnología -->
-<p>
-  <img src="https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/-Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows Server" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
-  <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-</p>
-
-
+<div align="center">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img alt="Windows Server" src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</div>
 
 ## 📚 Actualmente estoy aprendiendo
 
@@ -48,28 +53,41 @@
 - Virtualización y despliegue de servicios
 - Automatización y scripting
 - Infraestructura de entornos reales
+- Prácticas y resolución de problemas técnicos
 
 ## 🗂️ Proyectos y apuntes
 
-- [📚 Apuntes y prácticas 1r ASIX](https://github.com/Thekillerjoker/1r-ASIX)
-- [📚 Apuntes y prácticas 2gn ASIX](https://github.com/Thekillerjoker/2ASIX)
+<div align="left">
+  <a href="https://github.com/Thekillerjoker/1r-ASIX">
+    <img src="https://img.shields.io/badge/📚-1r_ASIX-00C2FF?style=for-the-badge" alt="1r ASIX" />
+  </a>
+  <a href="https://github.com/Thekillerjoker/2ASIX">
+    <img src="https://img.shields.io/badge/📚-2ASIX-2ECC71?style=for-the-badge" alt="2ASIX" />
+  </a>
+</div>
 
 ## 📊 GitHub stats
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Thekillerjoker&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thekillerjoker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="185" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thekillerjoker&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" height="185" />
+</div>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thekillerjoker&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Thekillerjoker&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🔗 Perfil
 
-GitHub: [@Thekillerjoker](https://github.com/Thekillerjoker)
+- GitHub: [@Thekillerjoker](https://github.com/Thekillerjoker)
+- En constante aprendizaje y mejora técnica
 
 ---
 
 <p align="center">
   <i>Siempre aprendiendo, construyendo y mejorando mis habilidades en tecnología.</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Aprendiendo+cada+d%C3%ADa;Construyendo+soluciones;Mejorando+mis+habilidades" alt="Footer typing" />
 </p>
