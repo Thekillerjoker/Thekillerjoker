@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Stack-Infraestructura-FFB703?style=for-the-badge&logo=apache&logoColor=white" alt="Infraestructura" />
 </div>
 
-# 👋 Hola, soy TheKillerjoker
+# 👋 Hola, soy Sergi Rodríguez Bravo
 
 <p align="center">
   <em>Estudiante de ASIX enfocado en administración de sistemas, redes, servidores y virtualización.</em>
