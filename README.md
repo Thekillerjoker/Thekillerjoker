@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1500&color=00C2FF&center=true&vCenter=true&width=760&lines=Hola%2C+soy+Sergi+%28Thekillerjoker%29;Estudiante+de+ASIX;SysAdmin+%7C+Redes+%7C+Infraestructura" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1500&color=00C2FF&center=true&vCenter=true&width=760&lines=Hola%2C+soy+%28Thekillerjoker%29;Estudiante+de+ASIX;SysAdmin+%7C+Redes+%7C+Infraestructura" alt="Typing SVG"/>
 </div>
 
 <div align="center">
@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Stack-Infraestructura-FFB703?style=for-the-badge&logo=apache&logoColor=white" alt="Infraestructura" />
 </div>
 
-# 👋 Hola, soy Sergi
+# 👋 Hola, soy TheKillerjoker
 
 <p align="center">
   <em>Estudiante de ASIX enfocado en administración de sistemas, redes, servidores y virtualización.</em>
