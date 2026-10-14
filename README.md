@@ -14,9 +14,7 @@
   <em>Estudiante de ASIX enfocado en administración de sistemas, redes, servidores y virtualización.</em>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Thekillerjoker&style=flat-square&color=00C2FF" alt="Profile views" />
-</div>
+
 
 ## 🚀 Sobre mí
 
